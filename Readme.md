@@ -23,7 +23,7 @@ The idea for this project came from Udacity, where this is the first project pro
     │                         generated with `pip freeze > requirements.txt`
 
 ## Results
-Coming Soon...
+The main findings of the code can be found at the post available [here](https://medium.com/@daniel.DS/looking-to-visit-rio-de-janeiro-in-2023-see-this-data-b06353ff33b0).
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Inside Airbnb for the data. You can find the license and data for other cities to explore on the Inside Airbnb link available [here](http://insideairbnb.com/get-the-data/). Otherwise, feel free to use the code here as you would like!
